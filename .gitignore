@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TheShitHeadGameApi/bin/Debug/net6.0
+/ShitheadApi/bin/Debug/net6.0
+/ShitheadApi/obj
+/ShitheadApi/bin/Debug/net7.0
